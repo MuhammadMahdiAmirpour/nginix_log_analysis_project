@@ -1,0 +1,21 @@
+Summary Statistics:
+              size         hour
+count  1129.000000  1129.000000
+mean   2285.573959    11.274579
+std    1438.776993     7.140987
+min       0.000000     0.000000
+25%     734.000000     5.000000
+50%    2517.000000    11.000000
+75%    3432.000000    18.000000
+max    4918.000000    23.000000
+
+Key Insights and Observations:
+1. The number of requests per HTTP method shows the most common methods used.
+2. The distribution of response sizes helps identify the range and frequency of response sizes.
+3. The number of requests per status code indicates the success or failure of the requests.
+4. The number of requests per hour shows the traffic patterns throughout the day.
+5. The number of requests per day shows the traffic patterns across different days.
+6. The top requested URLs highlight the most accessed resources.
+7. The average response size per request method reveals the typical load associated with each method.
+
+
